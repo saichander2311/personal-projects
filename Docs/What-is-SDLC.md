@@ -121,7 +121,3 @@ Includes:
 - Thoroughly tested
 - Successfully delivered
 
----
-
-**Source:** Converted from `What-is-SDLC.docx` [file:28]  
-**Generated:** April 19, 2026
