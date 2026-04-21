@@ -258,4 +258,5 @@ mysql -h <RDS-ENDPOINT> -u admin -p
 ```
 ![preview](./Data%20in%20Database.png)
 - Login success page
+
 ![preview](./Login%20Successful.png)
